@@ -13,7 +13,10 @@ Public Class Form1
 
         ' Your code here
 
-        txtResult.Text = "Not implemented yet"
+        txtResult.Text = "Wish I had more time"
     End Sub
 
+    Private Sub txtFirstNum_TextChanged(sender As Object, e As EventArgs) Handles txtFirstNum.TextChanged
+
+    End Sub
 End Class
